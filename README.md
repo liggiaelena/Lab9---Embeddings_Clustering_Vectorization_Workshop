@@ -5,9 +5,7 @@
 
 | Name | Student ID |
 |---|---|
-| Emmanuel Ihejiamazu | 9080005 |
 | Liggia Elena Taboada Cruz | 9085905 |
-| Chao-Chung Liu | 9067679 |
 
 ---
 
